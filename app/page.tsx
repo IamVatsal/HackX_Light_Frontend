@@ -97,8 +97,8 @@ export default function LandingPage() {
               <Shield className="w-6 h-6 text-white" />
             </div>
             <div>
-              <h1 className="text-lg font-semibold text-foreground">Government of India</h1>
-              <p className="text-sm text-muted-foreground">Ministry of Health & Family Welfare</p>
+              <h1 className="text-lg font-semibold text-foreground">Aarogya Sahayak</h1>
+              <p className="text-sm text-muted-foreground">Companion for health info</p>
             </div>
           </div>
 

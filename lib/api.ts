@@ -40,7 +40,7 @@ export interface SymptomCheckResponse {
 
 // Base API configuration
 const API_BASE_URL =
-    process.env.NEXT_PUBLIC_API_URL || 'http://localhost:8000/api';
+    process.env.NEXT_PUBLIC_API_URL || 'http://localhost:5000';
 
 class HealthChatbotAPI {
     // Add chat history management
